@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013503461645",
+    "firebase_url": "https://snapit-5f836.firebaseio.com",
+    "project_id": "snapit-5f836",
+    "storage_bucket": "snapit-5f836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013503461645:android:75add8771a003038",
+        "android_client_info": {
+          "package_name": "com.abc.snapit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013503461645-lo58ivtjfln9n45fqocbr1c041q4qaoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.snapit",
+            "certificate_hash": "a6016a5c2863ee98d0a38f2fdbcf6e38a2368499"
+          }
+        },
+        {
+          "client_id": "1013503461645-obot5ff4ik8fdcjsrmrbehvgskk3g5or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQfxkpsonu6KmHDTrwMB5GOX4BRPPCCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013503461645-obot5ff4ik8fdcjsrmrbehvgskk3g5or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
